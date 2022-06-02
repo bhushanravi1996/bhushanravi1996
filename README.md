@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ravi Bhushan
 - 👀 I’m an aspiring full-stack developer skilled in Mern Stack who focuses on writing clean, elegant, and efficient code.
 - 🌱 I’m currently studying at Masai School as a full-stack developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 
 <!---
