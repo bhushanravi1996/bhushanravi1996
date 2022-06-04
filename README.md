@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://ravi-bhushan-portfolio.netlify.app/](https://ravi-bhushan-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ravi-bhushan.netlify.app/](https://ravi-bhushan.netlify.app/)
 
 - 💬 Ask me about **HTML, JavaScript, CSS, React.js, Bootstrap**
 
